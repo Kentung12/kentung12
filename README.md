@@ -16,9 +16,7 @@
 ---
 
 ## ✨ About me
-- 🌱 Currently learning: **(isi: React / Node / Python / etc)**
-- 💬 Ask me about: **(isi: Web / Backend )**
-
+Information Systems student (5th semester) • Vibe coding • Turning ideas into code 🚀
 
 ---
 
