@@ -17,9 +17,8 @@
 
 ## ✨ About me
 - 🌱 Currently learning: **(isi: React / Node / Python / etc)**
-- 🔭 Working on: **(isi project kamu)**
-- 💬 Ask me about: **(isi: Web / Backend / Mobile)**
-- 📫 Reach me: **(isi email / IG / LinkedIn)**
+- 💬 Ask me about: **(isi: Web / Backend )**
+
 
 ---
 
@@ -41,7 +40,7 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,python,go,rust,aws,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,python,git,github&perline=8" />
 </p>
 
 ---
@@ -68,7 +67,7 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <!-- Ini akan jalan kalau kamu aktifkan GitHub Action (lihat catatan di bawah) -->
-  <img src="https://raw.githubusercontent.com/kentung12/kentung12/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kentung12/kentung12/output/snake.yml" alt="snake animation" />
 </p>
 
 ---
