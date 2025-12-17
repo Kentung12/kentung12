@@ -12,13 +12,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kentung12
           outputs: |
             output/snake.svg
-      - uses: EndBug/add-and-commit@v9
+
+      - name: Commit and push snake
+        uses: EndBug/add-and-commit@v9
         with:
           add: "output/snake.svg"
           message: "Update snake"
+          default_author: github_actions
