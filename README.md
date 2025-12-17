@@ -65,7 +65,7 @@ Information Systems student (5th semester) • Vibe coding • Turning ideas int
 ## 🐍 Contribution Snake
 <p align="center">
   <!-- Ini akan jalan kalau kamu aktifkan GitHub Action (lihat catatan di bawah) -->
-  <img src="https://raw.githubusercontent.com/kentung12/kentung12/output/snake.yml" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kentung12/kentung12/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
